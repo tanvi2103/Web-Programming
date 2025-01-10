@@ -1,0 +1,11 @@
+This is my first paragraph
+
+<!DOCKTYPE html>
+<html>
+<head>
+<title>My first paragraph</title>
+</head>
+<body>
+<p>This is my first paragraph. I am leaning how to write HTML code !</p>
+</body>
+</html>
